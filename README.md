@@ -1,16 +1,17 @@
-## Hi there 👋
+## suntested
+Greetings, welcome to my GitHub profile.
 
-<!--
-**suntested/suntested** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+### Who am I?
+I'm a student interested in and working about low level systems programming
+and aeronautical engineering as fields.
 
-Here are some ideas to get you started:
+Here you can find my past and future works, my projects, and more..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Thanks for your visit. Have a great day.
+
+---
+#### 🔒 Attribution
+The profile avatar is a custom geometric design generated via TikZ/LaTeX.
+<br>
+Content and avatar design © 2026 [suntested](https://github.com/suntested). All rights reserved.
