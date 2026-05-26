@@ -3,7 +3,7 @@ Greetings, welcome to my GitHub profile.
 
 ---
 ### Who am I?
-I'm a student interested in and working about low level systems programming
+I'm a human being interested in and working about low level systems programming
 and aeronautical engineering as fields.
 
 Here you can find my past and future works, my projects, and more..
